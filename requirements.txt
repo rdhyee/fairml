@@ -8,3 +8,4 @@ scikit-learn>=0.18.1
 scipy>=0.18.1
 seaborn>=0.7.1
 six>=1.10.0
+git+git://github.com/rdhyee/fairml.git@mybinder
